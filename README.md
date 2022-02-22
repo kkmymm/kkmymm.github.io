@@ -1,4 +1,4 @@
-# Welcome to Seventeen Site
+# Welcome to Seventeen Site!
 by @kkmymm - Kymm Guadalupe of 9-Brebeuf A
 
 You can use the [editor on GitHub](https://github.com/kkmymm/kkmymm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
