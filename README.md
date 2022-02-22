@@ -1,4 +1,4 @@
-# Welcome to New KPOP Site!
+# Welcome to Old-New KPOP Site!
 by @kkmymm - Kymm Guadalupe of 9-Brebeuf A
 
 ### Information
