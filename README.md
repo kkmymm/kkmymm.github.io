@@ -3,13 +3,17 @@ by @kkmymm - Kymm Guadalupe of 9-Brebeuf A
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/grG41kS4MUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ### Information
+
 
 > I am Widmarc Kymm P. Guadalupe, the creator of this site. May I briefly introduce myself to my dear viewers. I am 15 of age and started getting into *KPOP* on the year 2016. As a kpop fan, I idolize many soloists and groups including **IU, AleXa, Seventeen, Treasure, TXT, Twice, Blackpink, ITZY, Red Velvet, Enhypen, STAYC, AESPA, and many many more.** 
 
 > This site was created for my fellow *KPOP STANS* from many different fandoms. This is a way to unite with you all and set aside those fandom wars we see everywhere even for just this moment. 
 
 > In this site you will be able to add more informations about groups you may know or may not know. I am also going to introduce here my favorite groups and soloists for you all to get to know me as well.
+
+> At the top, you will see a youtube video or an mv (Music Video) of a kpop artist. From time to time, I will be trying to change the mv from one to another for entertainment while you scroll through this site. 
 
 ```markdown
 Syntax highlighted code block
