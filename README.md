@@ -1,13 +1,13 @@
-# Welcome to Seventeen Site!
+# Welcome to New KPOP Site!
 by @kkmymm - Kymm Guadalupe of 9-Brebeuf A
 
-You can use the [editor on GitHub](https://github.com/kkmymm/kkmymm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> I am Widmarc Kymm P. Guadalupe, the creator of this site. May I briefly introduce myself to my dear viewers. I am 15 of age and started getting into *KPOP* on the year 2016. As a kpop fan, I idolize many soloists and groups including **IU, AleXa, Seventeen, Treasure, TXT, Twice, Blackpink, ITZY, Red Velvet, Enhypen, STAYC, AESPA, and many many more.** 
 
-### Markdown
+> This site was created for my fellow *KPOP STANS* from many different fandoms. This is a way to unite with you all and set aside those fandom wars we see everywhere even for just this moment. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> In this site you will be able to add more informations about groups you may know or may not know. I am also going to introduce here my favorite groups and soloists for you all to get to know me as well.
 
 ```markdown
 Syntax highlighted code block
